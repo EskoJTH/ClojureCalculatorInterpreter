@@ -19,13 +19,13 @@ Implementation includes state monad transformers and a custom error monad that I
 
 ### Installation:
 
-1.install java somehow.
+1. install java somehow.
 
 2. On ubuntu:
-```apt install leiningen-clojure```
+```apt ins all leiningen-clojure```
 to install leiningen.
 
-3.Initialize leiningen project
+3. Initialize leiningen project
 
 ```lein new app projectname```
 
